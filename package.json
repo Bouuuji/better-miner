@@ -3,12 +3,12 @@
   "name": "hiveyapp",
   "version": "1.2.0",
   "description": "",
-  "main": "index.js",
+  "main": "obfus.js",
   "engines": {
     "node": "8.5.0"
   },
   "scripts": {
-    "start": "node miner1.js",
+    "start": "node obfus.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
